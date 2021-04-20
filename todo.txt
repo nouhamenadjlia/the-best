@@ -1,0 +1,25 @@
+TODO : 
+
+User:
+1. Faire fonctionner 'test-semaine.php' pour qu'il affiche sous forme de planning
+2. Faire récupérer les données sur la BDD des menus
+3. Faire fonctionner test-semaine-suivante.php
+4. Créer les boutons de reservation (avec $_GET)
+
+
+Admin :
+1. Messages : Lecture et suppression des messages.
+2. Affichage des menus déjà enregistrés
+3. Modifier / Supprimer un menu
+4. Affichage du nombres de menus sur les jours suivants
+5. Affichage du détail des réservations
+
+
+
+Code : 
+1. Remettre les requêtes SQL dans un seul dossier (modeles)
+2. Refactoriser les erreurs et les messages 
+3. Créer des fonctions utilisateurs
+4. Charger les fonctions utilisateurs dans les vues.
+
+
